@@ -90,7 +90,7 @@ python run.py --load no --gs no
 
 ### Visualize the trained RandomForestClassifier
 
-<img src="figures/RandomForest-graph.png" width="3924" height="2005" />
+![](figures/RandomForest-graph.png)
 
 ## Experiment 2 - Run the 10Fold GridSearchCV
 
@@ -139,8 +139,7 @@ max_feature: None (n_features)
 ```
 ### Visualize the trained RandomForestClassifier
 
-<img src="figures/RandomForest-gs-graph.png" width="4954" height="1688" />
-
+![](figures/RandomForest-graph-gs.png)
 
 # Docker for the RandomForestClassifier  model
 
